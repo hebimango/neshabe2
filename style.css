@@ -1,0 +1,14 @@
+@charset "utf-8";
+.dragon_title {
+    color: #600;
+	
+}
+
+
+.nesyabe_title {
+    color: #1B0E8E;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+.size9 {
+	font-size: 12px;
+}
